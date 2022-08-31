@@ -4,7 +4,7 @@ version: 1.0.0
 
 ### UserName : admin
 
-### Password : 1234
+### Password : 123
 
 
 ## Authors
