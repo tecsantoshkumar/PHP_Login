@@ -2,14 +2,11 @@
 
 version: 1.0.0
 
-### UserName : elias
+### UserName : admin
 
-### Password : 123
+### Password : 1234
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/d2dBVzzorXE)
 
 ## Authors
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+[Tec Santosh Kumar Abdurrahman](https://github.com/tecsantoshkumar)
