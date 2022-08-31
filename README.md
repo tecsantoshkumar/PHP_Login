@@ -1,4 +1,4 @@
-# PHP-Profile-System-Change-Password 
+# PHP-Change-Password 
 
 version: 1.0.0
 
